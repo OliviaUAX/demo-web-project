@@ -1,0 +1,5 @@
+.ssh/
+.bash*
+.profile
+.cache/
+.m2/
